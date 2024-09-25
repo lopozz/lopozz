@@ -7,6 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Mistakes You Are Making With RAG Systems](https://medium.com/@Lorenzo_Pozzi/improve-rag-systems-learning-from-mistakes-60f63d779dc2?source=rss-78967275bd62------2)
+- [Don’t Trust Retrieval Augmented Generation Products!](https://medium.com/@Lorenzo_Pozzi/dont-trust-retrieval-augmented-generation-products-8e738a7e4b6b?source=rss-78967275bd62------2)
+- [NEW Named Entity Recognition — GLiNER](https://medium.com/@Lorenzo_Pozzi/new-named-entity-recognition-gliner-27d4284cc268?source=rss-78967275bd62------2)
+- [On Large Language Models and Gaming Industry](https://medium.com/@Lorenzo_Pozzi/large-language-models-and-gaming-industry-b98383dec18c?source=rss-78967275bd62------2)
+- [Overview Generative Language Models &lpar;Updated 18 March 2023&rpar;](https://medium.com/@Lorenzo_Pozzi/overview-generative-language-models-updated-18-march-2023-8979a334bb0c?source=rss-78967275bd62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
