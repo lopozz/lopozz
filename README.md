@@ -7,7 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenIA, MIT and Microsoft on Online Privacy and Proof of Personhood Credentials](https://medium.com/@Lorenzo_Pozzi/openia-mit-microsoft-and-more-on-online-proof-of-personhood-credentials-5a34f7b26a37?source=rss-78967275bd62------2)
+- [OpenIA, MIT, and Microsoft on Online Privacy and Proof of Personhood Credentials](https://pub.towardsai.net/openia-mit-microsoft-and-more-on-online-proof-of-personhood-credentials-5a34f7b26a37?source=rss-78967275bd62------2)
 - [7 Mistakes Not to Make With RAG](https://medium.com/@Lorenzo_Pozzi/improve-rag-systems-learning-from-mistakes-60f63d779dc2?source=rss-78967275bd62------2)
 - [Don’t Trust Retrieval Augmented Generation Products!](https://medium.com/@Lorenzo_Pozzi/dont-trust-retrieval-augmented-generation-products-8e738a7e4b6b?source=rss-78967275bd62------2)
 - [NEW Named Entity Recognition — GLiNER](https://medium.com/@Lorenzo_Pozzi/new-named-entity-recognition-gliner-27d4284cc268?source=rss-78967275bd62------2)
