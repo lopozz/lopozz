@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Multilingual Emotion Recognition — Full Experimental Report](https://pub.towardsai.net/multilingual-emotion-recognition-full-experimental-report-d4d1d8e77a87?source=rss-78967275bd62------2)
 - [OpenIA, MIT, and Microsoft on Online Privacy and Proof of Personhood Credentials](https://pub.towardsai.net/openia-mit-microsoft-and-more-on-online-proof-of-personhood-credentials-5a34f7b26a37?source=rss-78967275bd62------2)
-- [7 Mistakes Not to Make With RAG](https://medium.com/@Lorenzo_Pozzi/improve-rag-systems-learning-from-mistakes-60f63d779dc2?source=rss-78967275bd62------2)
-- [Don’t Trust Retrieval Augmented Generation Products!](https://medium.com/@Lorenzo_Pozzi/dont-trust-retrieval-augmented-generation-products-8e738a7e4b6b?source=rss-78967275bd62------2)
-- [NEW Named Entity Recognition — GLiNER](https://medium.com/@Lorenzo_Pozzi/new-named-entity-recognition-gliner-27d4284cc268?source=rss-78967275bd62------2)
-- [On Large Language Models and Gaming Industry](https://medium.com/@Lorenzo_Pozzi/large-language-models-and-gaming-industry-b98383dec18c?source=rss-78967275bd62------2)
+- [7 Mistakes Not to Make With RAG](https://medium.com/@lopoz/improve-rag-systems-learning-from-mistakes-60f63d779dc2?source=rss-78967275bd62------2)
+- [Don’t Trust Retrieval Augmented Generation Products!](https://medium.com/@lopoz/dont-trust-retrieval-augmented-generation-products-8e738a7e4b6b?source=rss-78967275bd62------2)
+- [NEW Named Entity Recognition — GLiNER](https://medium.com/@lopoz/new-named-entity-recognition-gliner-27d4284cc268?source=rss-78967275bd62------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
