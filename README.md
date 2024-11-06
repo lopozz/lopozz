@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">Language and AI enthusiast</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@Lorenzo_Pozzi](https://medium.com/@Lorenzo_Pozzi)
+- 📝 I regularly write articles on [https://medium.com/@Lorenzo_Pozzi](https://medium.com/@lopoz)
 
 - 📫 How to reach me **lorenzopozzi17@yahoo.it**
 
