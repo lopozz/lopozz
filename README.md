@@ -3,7 +3,7 @@
 
 - 📝 I write articles on [https://medium.com/@Lorenzo_Pozzi](https://medium.com/@lopoz)
 
-- 📫 How to reach me **lorenzopozzi17@yahoo.it**
+- 📫 How to reach me **lpozzi.me@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
