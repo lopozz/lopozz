@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lorenzo pozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo pozzi" height="30" width="40" /></a>
-<a href="https://medium.com/@lorenzo_pozzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lorenzo_pozzi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lopozz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo pozzi" height="30" width="40" /></a>
+<a href="https://medium.com/@lopozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lopozz" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lopozz&show_icons=true&locale=en" alt="lopozz" /></p>
 
-I lost all my commits changing account email, please don't judge me 🥲
+I lost all my commits changing account email, don't judge me 🥲
